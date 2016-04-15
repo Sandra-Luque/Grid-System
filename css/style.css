@@ -1,0 +1,135 @@
+/* Inserta tu codigo aqui */
+*{outline: 1px solid rgba(225,0,0, 0.4);
+
+}
+*{
+	font-family: Arial;
+}
+a{
+	color: #2E64FE;
+}
+.header{
+	height: 120px;
+	background-color:#424242;
+	padding: 10px; 
+}
+.menu{
+    font-size: 13px;
+    color: #fff;
+    width: 662px;
+    float: right;
+    margin-top: 31px;
+}
+.menu li{
+	display: inline-block;
+    margin: 11px;
+}
+
+/*--------------------------------------------------------------------
+para mis  primeras imagenes
+----------------------------------------------------------------------*/
+.image-fondo{
+	background-color: #F2F2F2;
+}
+.image-fondo h1{
+	margin: 20px;
+	font-size: 18px;
+}
+.image-fondo a{
+	text-decoration: none;
+	font-size: 17px;
+	color: #0174DF;
+}
+.image-fondo h1 a{
+	font-size: 10px;
+	text-decoration: none;
+	color: #0174DF;
+
+} 
+.col-3 img{
+	width: 205px;
+    height: 205px;
+    border: 4px solid #fff;
+    margin-top: 20px;
+
+}
+.img-1{
+	text-align: center;	
+}
+
+/*--------------------------------------------------------------------
+para mis imagenes
+----------------------------------------------------------------------*/
+
+.lis-img li{
+	display: inline-block;
+	text-align: center;
+	margin: 15px 10px 10px 0;
+	list-style: none;
+	width: 115px;
+	vertical-align: top;
+}
+.lis-img img{
+	width: 108px;
+	height:108px;
+	border: 1px solid #E6E6E6;
+	padding: 5px;
+}
+/*--------------------------------------------------------------------
+para mis info lateral derecho
+----------------------------------------------------------------------*/
+h4{
+	border-bottom: 2px solid #E6E6E6;
+	color: #424242;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+.col-3 h4:first-child{
+	margin-top: 50px;
+}
+.col-3 .icon{
+	width: 22px;
+	height: 22px;
+	margin: 0 5px;
+}
+.col-3 p{
+	margin-top: 19px;
+	font-size: 15px;
+}
+.col-3 p span{
+	color: #2E64FE;
+}
+/*--------------------------------------------------------------------
+para mis imagenes
+----------------------------------------------------------------------*/
+.pie-pagina{
+	background-color: #585858;
+	padding: 10px;
+}
+.pie-pagina p{
+	color: #fff;
+	font-size: 15px;
+	margin: 14px 0;
+}
+.pie-pagina span{
+	color: #D8D8D8;
+}
+.center{
+	text-align: center;
+}
+.size-1{
+	font-size: 13px;
+}
+.size-2{
+	font-size: 10px;
+	margin-bottom: 200px;
+}
+
+/*--------------------------------------------------------------------
+para mis imagenes
+----------------------------------------------------------------------*/
+.lis-img, .header img{
+	height:  100%;
+}
